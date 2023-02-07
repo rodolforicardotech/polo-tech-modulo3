@@ -1,0 +1,15 @@
+https://www.kaggle.com/datasets
+
+https://archive.ics.uci.edu/ml/datasets.php
+
+https://datahub.io/collections
+
+https://learn.microsoft.com/en-us/azure/azure-sql/public-data-sets?view=azuresql
+
+https://datasetsearch.research.google.com/
+
+https://apps.who.int/gho/data/node.home
+
+https://www.bfi.org.uk/industry-data-insights
+
+https://cde.ucr.cjis.gov/LATEST/webapp/#/pages/home
